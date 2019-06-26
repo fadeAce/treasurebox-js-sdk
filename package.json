@@ -1,0 +1,25 @@
+{
+  "name": "treasurebox-js-sdk",
+  "version": "1.0.0",
+  "description": "ed25519 check for api key and signature certification for Treasurebox",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fadeAce/treasurebox-js-sdk.git"
+  },
+  "author": "Caster Lee",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/fadeAce/treasurebox-js-sdk/issues"
+  },
+  "homepage": "https://github.com/fadeAce/treasurebox-js-sdk#readme",
+  "dependencies": {
+    "tweetnacl": "^1.0.1"
+  },
+  "devDependencies": {
+    "superagent": "^5.1.0"
+  }
+}
