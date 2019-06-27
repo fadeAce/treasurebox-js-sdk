@@ -1,5 +1,5 @@
 {
-  "name": "treasurebox-js-sdk",
+  "name": "treasurebox",
   "version": "1.0.0",
   "description": "ed25519 check for api key and signature certification for Treasurebox",
   "main": "index.js",
