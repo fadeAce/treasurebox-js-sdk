@@ -13,6 +13,7 @@ const params = {
 };
 let res = idx.sign('GET', path, psk, params);
 console.log(res);
+
 superagent
     .get('http://127.0.0.1:8777/client/v0' + path + '?' + res.query)
     .set({

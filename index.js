@@ -35,4 +35,4 @@ function sign(method, path, privateKey, params) {
 
 module.exports = {
     sign,
-}
+};
